@@ -39,3 +39,6 @@ Unlike traditional psychology, affects are not understood only as individual exp
 Today, **affect theory** is applied to the analysis of **populism**, **racism**, **migration**, **feminist**, **queer**, and **decolonial struggles** — understanding that **affects not only reflect the social but produce it**:  
 they configure **solidarities**, **exclusions**, **resistances**, and **ways of inhabiting the world**.
 
+
+[Apps and interfaces of Pangea in Latent Space The Tectonics of Otherness](https://github.com/marlonbarrios/list_of_applications_UI/blob/mondrian/README.md#list_of_applications_ui)
+
