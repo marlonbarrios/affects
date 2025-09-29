@@ -1,5 +1,3 @@
-# affects
-
 
 Affect theory studies how emotions, sensations, and energies circulate among bodies and collectives, shaping experience, politics, and knowledge. **Affects are not only individual feelings but relational forces** that create bonds, drive movements, and sustain resistances.
 
